@@ -10,7 +10,7 @@ image_attribution: Photo by <a href="https://unsplash.com/@visucy?utm_source=uns
                      
 ---
 
-A Team Lead's resonsibilities range from overseeing technical direction, delivery and supporting their direct reports. In one of my previous companies, this incredible work load led to burnout and multiple Team Lead resignations. So we decided to experiment with implemting Team and Technical leads within the same team to combat the workload. This is how it went (from the Tech Lead's perspective). I call this "Coach and Captain".
+A Team Lead's responsibilities range from overseeing technical direction, delivery and supporting their direct reports. In one of my previous companies, this incredible work load led to burnout and multiple Team Lead resignations. So we decided to experiment with implemting Team and Technical leads within the same team to combat the workload. This is how it went (from the Tech Lead's perspective). I call this "Coach and Captain".
 
 
 **The previous role of the Team Lead**
@@ -92,8 +92,8 @@ This is feedback I received after presenting this topic in a talk. It amused me 
 to the complaints made by the old Team Leads, and other Team Leads I've worked with before.
 But I would warn against thinking about it like this. This distribution of work does not take away from the fact
 that the Tech Lead should be as informed about the teams' overall functionality, progress, delivery, etc as they
-would be if they were also the Team Lead. Vice versa, the Team Lead needs to understand the technical strategy,
-constraints, skill requirements, as well as the Tech Lead does, even if they can't implement.
+would be if they were also the Team Lead. Vice versa, the Team Lead needs to understand the high-level technical strategy,
+constraints and skill requirements, as well as the Tech Lead does, even if they don't implement.
 
 
 **Don't senior++ engineers cover this?**
@@ -120,14 +120,14 @@ Personally this leads to trust with the team - this person is everyone's line ma
 **Where would you use this?**
 
 Not all organisations would require or benefit from this set-up, but ours did.
-In smaller teams where the management aspect is less and the TTL is keen to code at least 50% of the time, a split would probably be a burden than a help. If the Team Lead is in the role to show technical prowess as well as manage process, they will clash with a Tech Lead. You'll also be in trouble if the Lead's do not get along or trust each other. Also if the team is quite small, your Tech Lead can probably handle Team Lead responsibilities with some training (if they don't have experience).
+In smaller teams where the management aspect is less time-consuming, and the TTL is keen to code at least 50% of the time, a split would probably be a burden than a help. If the Team Lead is in the role to show technical prowess as well as manage process, they will clash with a Tech Lead. You'll also be in trouble if the Lead's do not get along or trust each other. Also if the team is quite small, your Tech Lead can probably handle Team Lead responsibilities with some training (if they don't have experience).
 In my opinion, development teams of 6 people or more, could certainly benefit from this set-up as the technical work demands attention and you're likely to have more associate to mid-level engineers than seniors in a larger team (in my experience, larger teams are lighter on seniors).
-Also if the technical work is very demanding, it's can be very difficult for a Technical Lead to keep up with Technical Strategy & code quality as well as maintain a high-level of engagement with each team member.
+Also, if the technical work is very demanding, it can be very difficult for a Technical Lead to keep up with Technical Strategy & code quality as well as maintain a high-level of engagement with each team member.
 It's also useful:
         - in difficult teams that are not quite working well together
         - you have a talented Technical Leader but they don't want to line manage.
         - you have immature developers who are technically gifted but need guidance on working within a team and taming their ego.
-Our team benefitted from an improvement in dedicated time from both Leads, continual 
+Our team benefited from an improvement in dedicated time from both Leads, continual 
 
 
 **An option**
