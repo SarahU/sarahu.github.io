@@ -33,13 +33,14 @@ We had fairly large teams. My team varied between 6-8 people over the span of 2 
 This size worked well for us as we maintained all of our own infrastructure, wrote and deployed all our own code and were on-call for everything we built.
 
 Due to the number of responsibilities and meetings the Team Leads had, there were many scenarios where they were simply not available to the team.
+
 "So the seniors were available weren't they?". The seniors were definitely available, however, half our team was senior and each person had their own ideas about direction and implementation choices, which took time to resolve and often involved the lead's input to finalise. With the amount of responsibilities, three Team Leads reached breaking point and resigned within a few weeks of each other.
 
 
 **Introducing Tech Leads**
 
 Clearly the stress of taking on all that responsibility caused our leaders to burn out.
-Management made the decision to split the line management and technical responsibilities (better late than never?).
+Management finally made the decision to split the line management and technical responsibilities (better late than never?).
 Each team would have a Technical Lead as well as a Team Lead. The Tech Lead would take on the Technical Strategy & Direction,
 tooling & practice oversight and, in my team, career-development work.
 The Team Lead would remain the line manager and main communication liason.
@@ -50,18 +51,18 @@ In simplistic terms "The What" was owned by the PM, "The When" by the Team Lead 
 
 **Our Coach and Captain**
 
-Our Team Lead was not a coder. They had run their own start-up for a technical product and although they didn't code, had a good grasp of architecture and data and behaviour flow. Importantly, they knew what it took to deliver a software product.
+Our Team Lead was not a coder. They had run their own start-up for a technical product and although they didn't code, had a good grasp of architecture and data & behaviour flow. Importantly, they knew what it took to deliver a software product.
 The way they worked, reminded me a lot of a sports coach.
 They don't 'play' with the team 'on the field' but are directing from the sidelines, looking at the wider game in play. Our new manager made sure the things the PM wanted to happen were co-ordinated and communication was constant.
 They made sure to actively listen to each person, providing advice on personal well-being and
 generally taking care of them within the organisation. They were an excellent communicator and their experience in navigating politics
 (which exists everywhere, let's not kid ourselves)
 and understanding priorities in the broader context of the wider business, greatly helped the team understand the context and true impact of their work.
-They were also a good mediator and worked with each person to improve their ability to work within a team.
+They were also a good mediator and worked with each person to improve their ability to work within a team. They really brought home to me, the true value of communication, facilitator and mediator skills - things they don't teach you in dev school.
 
 
 The Tech Lead 'played on the field' with the team, and would lead the technical day-to-day.
-The Tech Lead sat with the team almost all week, was available for reviews, oversight, direction and judgement calls and coding with the team.
+The Tech Lead sat with the team almost all week, was available for reviews, oversight, direction & judgement calls and coded with the team.
 Unlike the previous Team Lead who was bogged down with meetings and logistics, the Tech Lead was much more available which means
 decisions were made more quickly, work unblocked and technical re-direction was able to happen rapidly.
 Technical direction and ways of working were important in this role and I encouraged a lot of collaborative practices like pairing or ensembling where the team felt comfortable doing so.
