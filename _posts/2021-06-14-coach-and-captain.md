@@ -10,7 +10,7 @@ image_attribution: Photo by <a href="https://unsplash.com/@visucy?utm_source=uns
                      
 ---
 
-A Team Lead's responsibilities range from overseeing technical direction, delivery and supporting their direct reports. In one of my previous companies, this incredible work load led to burnout and multiple Team Lead resignations. So we decided to experiment with implemting Team and Technical leads within the same team to combat the workload. This is how it went (from the Tech Lead's perspective). I call this "Coach and Captain".
+A Team Lead's responsibilities range from overseeing technical direction, delivery and supporting their direct reports. In one of my previous companies, this incredible work load led to burnout and multiple Team Lead resignations. So we decided to experiment with implementing Team and Technical leads within the same team to combat the workload. This is how it went (from the Tech Lead's perspective). I call this "Coach and Captain".
 
 
 **The previous role of the Team Lead**
@@ -21,17 +21,17 @@ This person was not only a line-manager, expected to have regular one-to-ones wi
  * Architecture & technical product direction
  * Software Product delivery and co-ordination of work across the different products - working with Product Managers
  * Technical mentorship to improve skills & practices
- * Team & Department people-related management
 
-
-We had fairly large teams. My team was between 6-8 people over the span of 2 years.
-This size worked well for us as we maintained all of our own infrastructure, wrote and deployed all our own code and were on-call for everything we built.
-The team leads used modern management practices like one-to-ones to ensure they were providing personal time to each team members.
-They were also:
- * in every meeting about work planning, updates, story creation, team logistics & recruitment
+This includes:
+ * being in every meeting about work planning, updates, story creation, team logistics & recruitment
  * talking with users & clients
  * researching technology, tools & vendors
- and the list goes on.
+ * recruiting and reviewing staff.
+ * reviewing and improving team relations and processes, and the list goes on.
+   
+We had fairly large teams. My team varied between 6-8 people over the span of 2 years.
+This size worked well for us as we maintained all of our own infrastructure, wrote and deployed all our own code and were on-call for everything we built.
+
 Due to the number of responsibilities and meetings the Team Leads had, there were many scenarios where they were simply not available to the team.
 "So the seniors were available weren't they?". The seniors were definitely available, however, half our team was senior and each person had their own ideas about direction and implementation choices, which took time to resolve and often involved the lead's input to finalise. With the amount of responsibilities, three Team Leads reached breaking point and resigned within a few weeks of each other.
 
