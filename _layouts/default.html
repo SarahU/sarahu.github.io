@@ -23,6 +23,12 @@
 						<div class="col-md-5">
 <!--							<a href="{{ post.filename }}" class="image featured"><img src="{{ post.image }}" alt="" /></a>-->
 							<img class="img-fluid mb-4 mb-md-0" src="{{ post.image }}" alt="Image">
+
+							<footer>
+								<ul class="actions">
+									<li><a href="{{ post.filename }}" class="button large">Continue Reading</a></li>
+								</ul>
+							</footer>
 						</div>
 						<div class="col-md-7">
 							<h3 class="mt-md-4 px-md-3 mb-2 py-2 bg-white font-weight-bold">{{ post.title }}</h3>
@@ -31,11 +37,7 @@
 								<small class="mr-2 text-muted"><i class="fa fa-folder"></i>{{ post.category }}</small>
 							</div>
 							<p> {{ post.excerpt }} </p>
-							<footer>
-								<ul class="actions">
-									<li><a href="{{ post.filename }}" class="button large">Continue Reading</a></li>
-								</ul>
-							</footer>
+
 						</div>
 					</div>
 				</article>
@@ -73,7 +75,7 @@
 			<section id="intro">
 				<a href="#" class="logo"><img src="/images/sarah1.jpg" alt="" /></a>
 				<header>
-					<h2 class="writer-name">Sarah Usher</h2>
+					<h2 class="capitalise">Sarah Usher</h2>
 					<p>Data Tech Specialist</p>
 					<p>Speaker</p>
 					<p>Mentor</p>
@@ -83,7 +85,7 @@
 
 			<!-- About -->
 			<section class="blurb">
-				<h2 style="bold" >About</h2>
+				<h2 class="capitalise">About</h2>
 				<p>Sarah hails from sunny South Africa and is currently living in London. She has been building useful software for over
 					10 years and is currently focused on Data Engineering, Backend Engineering and Data Products as well as community work through Ladies of Code London.
 				</p>
