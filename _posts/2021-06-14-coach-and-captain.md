@@ -1,6 +1,7 @@
 ---
 layout: blogpost
 title: "Coach & Captain - a pattern for team leadership"
+category: "People & Teams"
 type: "TEAM"
 filename: /blog/coach-and-captain
 date: 14-06-2021

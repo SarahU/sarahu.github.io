@@ -1,6 +1,7 @@
 ---
 layout: blogpost
 title: "BigQuery is not a Data Strategy - Part 1 - Identifying Symptoms"
+category: "Data Engineering"
 type: "TECH"
 filename: /blog/bigquery-is-not-a-data-strategy-part1
 date: 15-06-2021

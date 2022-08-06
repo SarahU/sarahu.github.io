@@ -1,6 +1,7 @@
 ---
 layout: blogpost
 title: "BigQuery is not a Data Strategy - Part 2 - Defining Data Strategy"
+category: "Data Engineering"
 type: "TECH"
 filename: /blog/bigquery-is-not-a-data-strategy-part2
 date: 28-06-2021
