@@ -10,6 +10,8 @@ imageAltText: "A cat staring intently"
 image_attribution: Photo by <a href="https://unsplash.com/@madhatterzone?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Manja Vitolic</a> on <a href="https://unsplash.com/s/photos/nerd-cat?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 ---
 
+In part two, we talk about defining a data strategy. What considerations does it cover?
+
 *This is the first in a 4-part series where I talk about what a Data Strategy is, how to identify a lack of or poor data
 strategy in a business and it's systems, implementing a good Data Strategy,
 how to avoid those problems and what to do if you're already experiencing them

@@ -10,6 +10,8 @@ imageAltText: "A cat looking to the side, reflected in a round mirror"
 image_attribution: Photo by Nick Fewings on Unsplash
 ---
 
+What makes working on Data Systems different from working on Applications? This is my experience.
+
 Everyone who builds software products, works with data and code but in a different ways. 
 When I started out in Software Development, which at the time was more general than it is today, what I was actually doing was Software Application Engineering. I worked on a client-facing system for people who used the web application to set-up and sell insurance products, generate documents, email their clients etc. We developed all the features of the product across backend and frontend. I later moved onto a system that processed lots of accounting data. It’s frontend consisted almost entirely of tables and offered the challenges of determining how to process more and more data across distributed services, optimising SQL queries and generating data that went to a ‘downstream’ system. It didn’t have this name at the time, but I was doing Data Engineering work. 
 

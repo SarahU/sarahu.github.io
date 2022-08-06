@@ -11,6 +11,8 @@ image_attribution: Photo by <a href="https://unsplash.com/@visucy?utm_source=uns
                      
 ---
 
+This is our story of how we managed team and technical direction by splitting the team and tech leadership, from the Tech Lead's perspective.
+
 A Team Lead's responsibilities range from overseeing technical direction, delivery and supporting their direct reports. In one of my previous companies, this incredible work load led to burnout and multiple Team Lead resignations. So we decided to experiment with implementing Team and Technical leads within the same team to combat the workload. This is how it went (from the Tech Lead's perspective). I call this "Coach and Captain".
 
 
