@@ -3,7 +3,7 @@ layout: blogpost
 title: "BigQuery is not a Data Strategy"
 category: "Data Engineering"
 type: "TECH"
-filename: /blog/bigquery-is-not-a-data-strategy-part1
+filename: /blog/bigquery-is-not-a-data-strategy
 date: 07-07-2025
 image: /images/manja-vitolic-unsplash.jpeg
 imageAltText: "A cat staring intently"
