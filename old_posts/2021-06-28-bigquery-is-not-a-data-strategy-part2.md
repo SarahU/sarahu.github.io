@@ -16,7 +16,6 @@ In part two, we talk about defining a data strategy. What considerations does it
 strategy in a business and it's systems, implementing a good Data Strategy,
 how to avoid those problems and what to do if you're already experiencing them
 and want to get out of data chaos, into data clarity.*  
-[See part 1]({% link _posts/2021-06-15-bigquery-is-not-a-data-strategy-part1.md %})
 
 In the previous blog, we went through symptoms that demonstrate the lack of implementation, of a good Data Strategy. 
 In this blog we'll look
