@@ -1,4 +1,5 @@
 # Sarah U's blog-site
 
-I'm a polyglot developer turned Data & Backend Specialist and Technical Leader.
+I'm a polyglot developer specialising in Data & Backend Engineering.
+I'm a Staff Engineer & Technical Leader.
 Welcome to my website!
