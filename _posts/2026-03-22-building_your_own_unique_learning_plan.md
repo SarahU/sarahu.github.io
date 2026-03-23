@@ -58,16 +58,16 @@ Let's say there are 3 mid-level engineer jobs I'm interested in. Here are the jo
 A growing data company is looking for a Backend Engineer to help build and scale its data processing platform.
 
 Skills:
-Python
-PostgreSQL
-REST APIs
-AWS
-ETL processes
-Batch processing
-Data modelling
-Communication
-Ownership
-Analytical thinking
+- Python
+- PostgreSQL
+- REST APIs
+- AWS
+- ETL processes
+- Batch processing
+- Data modelling
+- Communication
+- Ownership
+- Analytical thinking
 
 
 ### Job 2: Mid-Level Full Stack Engineer  
@@ -75,12 +75,12 @@ Analytical thinking
 A SaaS startup is hiring a Full Stack Engineer to build customer-facing features and improve product usability.
 
 Skills:
-TypeScript
-React
-REST APIs
-AWS
-Communication
-Collaboration
+- TypeScript
+- React
+- REST APIs
+- AWS
+- Communication
+- Collaboration
 
 
 ### Job 3: Mid-Level Backend Engineer    
@@ -88,14 +88,14 @@ Collaboration
 A fintech company is hiring a Backend Engineer to work on low-latency, high-throughput systems.
 
 Skills:
-Java
-GCP
-REST APIs
-Microservices
-System design
-Problem-solving
-Ownership
-Communication  
+- Java
+- GCP
+- REST APIs
+- Microservices
+- System design
+- Problem-solving
+- Ownership
+- Communication  
   
 ### Here is the table:  
 
