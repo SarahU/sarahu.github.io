@@ -46,7 +46,8 @@ Next, you determine what you can do to build that strength in those topics.
 This might be a course, a book, finding a mentor or coach, talking to a colleague
 or looking for some conferences in that topic.
 
-   
+<br>
+
 ## Let's do an example:
 
 For brevity, I'll use summarised example here, but I'll include a fuller example file below.
@@ -95,8 +96,8 @@ Skills:
 - System design
 - Problem-solving
 - Ownership
-- Communication  
-  
+- Communication
+
 ### Here is the table:  
 
 | Job | Python | Postgre<br>SQL | REST<br>APIs | AWS | ETL<br>processes | Batch<br>processing | Data<br>modelling | Communi<br>cation | Owner<br>ship | Analytical<br>thinking | Type<br>Script | React | Collab<br>oration | Java | GCP | Micro<br>services | System<br>design | Problem-<br>solving |
@@ -121,7 +122,7 @@ That's great, but I should pull more
 items from the list. 
 As they all have the same number of mentions, 
 I'll select ones that are interesting to me 
-(alternatively, I could select te ones that are in the job I want the most).
+(alternatively, I could select skills that are in the job I want the most).
    
 So my new list is:
 
