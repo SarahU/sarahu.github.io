@@ -1,10 +1,10 @@
 ---
 layout: blogpost
-title: "Building your own unique learning plan"
+title: "Build your own unique learning plan"
 category: "Processes"
 type: "TECH"
 filename: /blog/building_your_own_unique_learning_plan
-date: 22-03-2026
+date: 23-03-2026
 image: /images/ningdamao-_xySlbyGXhM-unsplash.jpg
 imageAltText: "A cat staring intently"
 image_attribution: Photo by <a href="https://unsplash.com/@ningdamao?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">宁 宁</a> on <a href="https://unsplash.com/photos/cat-rests-on-books-looking-at-the-camera-_xySlbyGXhM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
